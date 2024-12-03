@@ -54,3 +54,6 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+
+# Lineage vs. Provenance [MD5 (data/zip.txt) = 32db91d59bfeffcad6eb4d8170449b15]
+data/
